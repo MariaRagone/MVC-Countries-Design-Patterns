@@ -1,0 +1,15 @@
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.exe
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.deps.json
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.runtimeconfig.json
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.dll
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\bin\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.pdb
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.AssemblyInfo.cs
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.dll
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\refint\MVC Countries - DESIGN PATTERNS Lab.dll
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.pdb
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\MVC Countries - DESIGN PATTERNS Lab.genruntimeconfig.cache
+C:\Users\maria\source\repos\MVC Countries - DESIGN PATTERNS Lab\MVC Countries - DESIGN PATTERNS Lab\obj\Debug\net6.0\ref\MVC Countries - DESIGN PATTERNS Lab.dll

@@ -27,7 +27,6 @@ namespace MVC_Countries___DESIGN_PATTERNS_Lab
             {
                 Console.WriteLine($"{i+1}. {Countries[i].Name}");
             }
-        CountryController.WelcomeAction(CountryController.CountryDB)
                 {
 
             }
