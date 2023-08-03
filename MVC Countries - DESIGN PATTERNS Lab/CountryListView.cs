@@ -25,7 +25,7 @@ namespace MVC_Countries___DESIGN_PATTERNS_Lab
         {
             for (int i = 0; i < Countries.Count; i++)
             {
-                Console.WriteLine($"{i+1}. {Countries[i].Name}");
+                Console.WriteLine($"{i}. {Countries[i].Name}");
             }
                 {
 

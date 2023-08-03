@@ -42,6 +42,7 @@ namespace MVC_Countries___DESIGN_PATTERNS_Lab
 
                 int countryChoice = 0;
                 while (int.TryParse(Console.ReadLine(), out countryChoice) == false || countryChoice < 0 || countryChoice > CountryDb.Count-1)//adding the -1 doesn't seem to do anything
+                                                                                                                                            //when {i + 1}
 
                 // only runs infinately if the user types something that fails
                 {
